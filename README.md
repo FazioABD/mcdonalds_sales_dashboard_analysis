@@ -83,9 +83,11 @@ Improving operational efficiency can significantly enhance customer experience.
 
 ---
 
-## Dashboard Preview
+### Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![McDonald's Sales Dashboard](image/dashboard-overview.png)
+
+This Excel dashboard analyzes McDonald's South America sales performance including KPIs, sales trends, country distribution, and customer satisfaction metrics.
 
 ---
 
